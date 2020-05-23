@@ -1,3 +1,11 @@
 /** 
 * Feuille de style supplémentaire
 */
+input:focus {
+    color:red;
+}
+
+input[type=email]:hover {
+    background-color: green;
+    font-size: x-large;
+}
